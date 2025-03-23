@@ -1,10 +1,10 @@
 ## 💎 Olá, meu nome é William Alkamim!
 
-Faça uma breve apresentação sobre você e a sua stack.
+Sou um desenvolvedor Front-End em início de carreira, focado em HTML, CSS e estudando JavaScript.
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+🔭 Atualmente, estou trabalhando em pequenos projetos, como tela de login e portfólio básico para aprimorar minhas habilidades em desenvolvimento.
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+💬 Estou buscando Estágio em TI! Me chama aqui no GitHub ou no <a href="https://www.linkedin.com/in/william-alkamim-b033a3326/">Linkedin</a> para trocar ideias! 🚀
 
 ---
 
