@@ -18,4 +18,3 @@ Sou um desenvolvedor Front-End em início de carreira, focado em HTML, CSS e est
 ## ⭐ GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=willthepc&show_icons=true)
-![Snake animation](https://github.com/willthepc/willthepc/blob/output/github-contribution-grid-snake.svg)
