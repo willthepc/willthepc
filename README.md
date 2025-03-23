@@ -17,4 +17,4 @@ Sou um desenvolvedor Front-End em início de carreira, focado em HTML, CSS e est
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?willthepc=iuricode&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=willthepc&show_icons=true)
