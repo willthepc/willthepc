@@ -1,6 +1,6 @@
 ## 💎 Olá, meu nome é William Alkamim!
 
-Sou um desenvolvedor Front-End em início de carreira, focado em HTML, CSS e estudando JavaScript.
+Sou um desenvolvedor Web em início de carreira, focado em HTML, CSS, Bootstrap e estudando JavaScript.
 
 🔭 Atualmente, estou trabalhando em pequenos projetos para aprimorar minhas habilidades em desenvolvimento.
 
@@ -13,6 +13,7 @@ Sou um desenvolvedor Front-End em início de carreira, focado em HTML, CSS e est
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT"/></code>
 
 ---
