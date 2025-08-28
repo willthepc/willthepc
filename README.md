@@ -42,6 +42,12 @@ Sou Cientista de Dados em início de carreira, com foco em Python, que utiliza m
         <br>Git
       </td>
     </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+        <br>JavaScript
+      </td>
+    </tr>
   </table>
 </div>
 
