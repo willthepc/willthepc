@@ -29,10 +29,6 @@ Atualmente, trabalho como Suporte/Infra e curso Ciência da Computação na **UN
 
 ---
 
-[![My Stats](https://awesome-github-stats.azurewebsites.net/user-stats/willthepc?cardType=github&theme=github&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card)
-
----
-
 ### 📫 Conecte-se comigo:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamalkamim)
