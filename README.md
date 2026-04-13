@@ -29,8 +29,6 @@ Atualmente, trabalho como Suporte/Infra e curso Ciência da Computação na **UN
 
 ---
 
-### 📈 Estatísticas do GitHub
-
 [![My Stats](https://awesome-github-stats.azurewebsites.net/user-stats/willthepc?cardType=github&theme=github&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card)
 
 ---
