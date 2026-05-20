@@ -2,7 +2,7 @@
 
 ### Estudante de Ciência da Computação | Desenvolvedor | Data Scientist 🖥️📊
 
-Atualmente, trabalho como Suporte/Infra e curso Ciência da Computação na **UNICSUL**. Meu foco é a transição de carreira para as áreas de **Data Science** e **Desenvolvimento**, tudo o que envolve uma aplicação web.
+Atualmente, estagiando em Desenvolvimento de Software e cursando Ciência da Computação na **UNICSUL**. Meu foco é tudo o que envolve uma aplicação web.
 
 - 🎯 **Objetivo:** Aplicar meus conhecimentos em projetos reais e evoluir como desenvolvedor Full-Stack.
 - 🛠️ **Foco Atual:** Java, Python e Dados.
