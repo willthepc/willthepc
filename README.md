@@ -25,7 +25,8 @@ Atualmente, estagiando em Desenvolvimento de Software e cursando Ciência da Com
 
 * **🛒 Ecommerce System:** Backend robusto em Java com foco em POO e tratamento de exceções.
 * **🤖 IT Support Automation:** Script em Python para otimização de tarefas operacionais (limpeza de cache e spooler).
-* **📦 Sistema de Estoque:** Gestão de inventário desenvolvida com Python, Streamlit e SQLite.
+* **📦 Inventory System:** Gestão de inventário desenvolvida com Python, Streamlit e SQLite.
+* **💉 Consultation system for clinics:** Sistema feito para fortalecer meu conhecimento em Stream API.
 
 ---
 
