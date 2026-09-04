@@ -5,7 +5,7 @@
 Atualmente, estagiando em Desenvolvimento de Software e cursando Ciência da Computação na **UNICSUL**. Meu foco é tudo o que envolve uma aplicação web.
 
 - 🎯 **Objetivo:** Aplicar meus conhecimentos em projetos reais e evoluir como desenvolvedor Back-end.
-- 🛠️ **Foco Atual:** Java, Python e Dados.
+- 🛠️ **Foco Atual:** Java/Spring, Python e Dados.
 - 💬 **Idiomas:** Português (Nativo) e Inglês (Basic/Técnico - Estudando).
 
 ---
