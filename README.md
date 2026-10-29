@@ -6,7 +6,7 @@ Atualmente, estagiando em Desenvolvimento de Software e cursando Ciência da Com
 
 - 🎯 **Objetivo:** Aplicar meus conhecimentos em projetos reais e evoluir como desenvolvedor Back-end.
 - 🛠️ **Foco Atual:** Java/Spring
-- 💬 **Idiomas:** Português (Nativo) e Inglês (Basic/Técnico - Estudando).
+- 💬 **Idiomas:** Português (Nativo) e Inglês (A2).
 
 ---
 
